@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HARDY\\Desktop\\semana 6\\Csharp\\Semana06Labotaroio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1EB14B-1970-49E8-972A-142B11B331FE}|EJERCICIO05\\EJERCICIO05.csproj|c:\\users\\hardy\\desktop\\semana 6\\csharp\\semana06labotaroio\\ejercicio05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1EB14B-1970-49E8-972A-142B11B331FE}|EJERCICIO05\\EJERCICIO05.csproj|solutionrelative:ejercicio05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26F5BA2-3933-4B90-A944-0345E1B22BD7}|EJERCICIO04\\EJERCICIO04.csproj|c:\\users\\hardy\\desktop\\semana 6\\csharp\\semana06labotaroio\\ejercicio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26F5BA2-3933-4B90-A944-0345E1B22BD7}|EJERCICIO04\\EJERCICIO04.csproj|solutionrelative:ejercicio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70CA2F51-B9E9-4C6B-A2C8-7BDDC78916FD}|EJERCICIO03\\EJERCICIO03.csproj|c:\\users\\hardy\\desktop\\semana 6\\csharp\\semana06labotaroio\\ejercicio03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70CA2F51-B9E9-4C6B-A2C8-7BDDC78916FD}|EJERCICIO03\\EJERCICIO03.csproj|solutionrelative:ejercicio03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B975EE-275C-4EA3-9336-4601ACF0B899}|EJERCICIO02\\EJERCICIO02\\EJERCICIO02.csproj|c:\\users\\hardy\\desktop\\semana 6\\csharp\\semana06labotaroio\\ejercicio02\\ejercicio02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B975EE-275C-4EA3-9336-4601ACF0B899}|EJERCICIO02\\EJERCICIO02\\EJERCICIO02.csproj|solutionrelative:ejercicio02\\ejercicio02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2491E54-EB04-4375-9287-AB210F4DB163}|EJERCICIO01\\EJERCICIO01.csproj|c:\\users\\hardy\\desktop\\semana 6\\csharp\\semana06labotaroio\\ejercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2491E54-EB04-4375-9287-AB210F4DB163}|EJERCICIO01\\EJERCICIO01.csproj|solutionrelative:ejercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA1B338-3737-49BA-8E7F-A4FF76A4E946}|EJEMPLOS6\\EJEMPLOS6.csproj|c:\\users\\hardy\\desktop\\semana 6\\csharp\\semana06labotaroio\\ejemplos6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA1B338-3737-49BA-8E7F-A4FF76A4E946}|EJEMPLOS6\\EJEMPLOS6.csproj|solutionrelative:ejemplos6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HARDY\\Desktop\\semana 6\\Csharp\\Semana06Labotaroio\\EJERCICIO05\\Program.cs",
+              "RelativeDocumentMoniker": "EJERCICIO05\\Program.cs",
+              "ToolTip": "C:\\Users\\HARDY\\Desktop\\semana 6\\Csharp\\Semana06Labotaroio\\EJERCICIO05\\Program.cs",
+              "RelativeToolTip": "EJERCICIO05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T04:14:02.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HARDY\\Desktop\\semana 6\\Csharp\\Semana06Labotaroio\\EJERCICIO04\\Program.cs",
+              "RelativeDocumentMoniker": "EJERCICIO04\\Program.cs",
+              "ToolTip": "C:\\Users\\HARDY\\Desktop\\semana 6\\Csharp\\Semana06Labotaroio\\EJERCICIO04\\Program.cs",
+              "RelativeToolTip": "EJERCICIO04\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T04:11:20.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HARDY\\Desktop\\semana 6\\Csharp\\Semana06Labotaroio\\EJERCICIO03\\Program.cs",
+              "RelativeDocumentMoniker": "EJERCICIO03\\Program.cs",
+              "ToolTip": "C:\\Users\\HARDY\\Desktop\\semana 6\\Csharp\\Semana06Labotaroio\\EJERCICIO03\\Program.cs",
+              "RelativeToolTip": "EJERCICIO03\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T04:31:24.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HARDY\\Desktop\\semana 6\\Csharp\\Semana06Labotaroio\\EJERCICIO02\\EJERCICIO02\\Program.cs",
+              "RelativeDocumentMoniker": "EJERCICIO02\\EJERCICIO02\\Program.cs",
+              "ToolTip": "C:\\Users\\HARDY\\Desktop\\semana 6\\Csharp\\Semana06Labotaroio\\EJERCICIO02\\EJERCICIO02\\Program.cs",
+              "RelativeToolTip": "EJERCICIO02\\EJERCICIO02\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T03:05:26.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HARDY\\Desktop\\semana 6\\Csharp\\Semana06Labotaroio\\EJERCICIO01\\Program.cs",
+              "RelativeDocumentMoniker": "EJERCICIO01\\Program.cs",
+              "ToolTip": "C:\\Users\\HARDY\\Desktop\\semana 6\\Csharp\\Semana06Labotaroio\\EJERCICIO01\\Program.cs",
+              "RelativeToolTip": "EJERCICIO01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T23:26:09.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HARDY\\Desktop\\semana 6\\Csharp\\Semana06Labotaroio\\EJEMPLOS6\\Program.cs",
+              "RelativeDocumentMoniker": "EJEMPLOS6\\Program.cs",
+              "ToolTip": "C:\\Users\\HARDY\\Desktop\\semana 6\\Csharp\\Semana06Labotaroio\\EJEMPLOS6\\Program.cs",
+              "RelativeToolTip": "EJEMPLOS6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T23:25:43.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\HARDY\Desktop\semana 6\Csharp\Semana06Labotaroio\EJERCICIO01\bin\Debug\EJERCICIO01.exe.config
+C:\Users\HARDY\Desktop\semana 6\Csharp\Semana06Labotaroio\EJERCICIO01\bin\Debug\EJERCICIO01.exe
+C:\Users\HARDY\Desktop\semana 6\Csharp\Semana06Labotaroio\EJERCICIO01\bin\Debug\EJERCICIO01.pdb
+C:\Users\HARDY\Desktop\semana 6\Csharp\Semana06Labotaroio\EJERCICIO01\obj\Debug\EJERCICIO01.csproj.AssemblyReference.cache
+C:\Users\HARDY\Desktop\semana 6\Csharp\Semana06Labotaroio\EJERCICIO01\obj\Debug\EJERCICIO01.csproj.CoreCompileInputs.cache
+C:\Users\HARDY\Desktop\semana 6\Csharp\Semana06Labotaroio\EJERCICIO01\obj\Debug\EJERCICIO01.exe
+C:\Users\HARDY\Desktop\semana 6\Csharp\Semana06Labotaroio\EJERCICIO01\obj\Debug\EJERCICIO01.pdb

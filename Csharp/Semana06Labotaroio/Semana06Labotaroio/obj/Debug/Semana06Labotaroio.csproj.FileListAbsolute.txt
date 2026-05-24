@@ -1,0 +1,7 @@
+C:\Users\HARDY\Desktop\semana 6\Csharp\Semana06Labotaroio\Semana06Labotaroio\bin\Debug\Semana06Labotaroio.exe.config
+C:\Users\HARDY\Desktop\semana 6\Csharp\Semana06Labotaroio\Semana06Labotaroio\bin\Debug\Semana06Labotaroio.exe
+C:\Users\HARDY\Desktop\semana 6\Csharp\Semana06Labotaroio\Semana06Labotaroio\bin\Debug\Semana06Labotaroio.pdb
+C:\Users\HARDY\Desktop\semana 6\Csharp\Semana06Labotaroio\Semana06Labotaroio\obj\Debug\Semana06Labotaroio.csproj.AssemblyReference.cache
+C:\Users\HARDY\Desktop\semana 6\Csharp\Semana06Labotaroio\Semana06Labotaroio\obj\Debug\Semana06Labotaroio.csproj.CoreCompileInputs.cache
+C:\Users\HARDY\Desktop\semana 6\Csharp\Semana06Labotaroio\Semana06Labotaroio\obj\Debug\Semana06Labotaroio.exe
+C:\Users\HARDY\Desktop\semana 6\Csharp\Semana06Labotaroio\Semana06Labotaroio\obj\Debug\Semana06Labotaroio.pdb
